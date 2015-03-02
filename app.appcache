@@ -1,0 +1,35 @@
+CACHE MANIFEST
+
+#update 14-10-13 002
+app.html
+css/style.css
+js/zepto.min.js
+js/selector.js
+js/app.js
+resource/sound.mp3
+resource/v.mp4
+images/btn_back.png
+images/btn_go_on.png
+images/btn_start.png
+images/fail.png
+images/index_bg.png
+images/main_bg.png
+images/quan.png
+images/question1.png
+images/question2.png
+images/question3.png
+images/question4.png
+images/skip.png
+images/sound_off.png
+images/sound_on.png
+images/star.png
+images/success.png
+images/time_bar_cur.png
+images/time_bar_total.png
+images/time_clock.png
+images/time_num.png
+images/tips_bg.png
+
+NETWORK:
+
+FALLBACK:
